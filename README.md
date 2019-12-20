@@ -1,7 +1,7 @@
 # Django_blog_project
 TODO: I worked on this project for learning Django. 
 It is web application user can create there profile and add numbers of blog with title and content. 
-Also there is facility to change add prifile pic.
+Also there is facility to change add profile pic.
 And there is provision that if you forget your login password you will get link for resetting it.
 And there paginator is used with 5 post in one page.
 
